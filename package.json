@@ -1,0 +1,22 @@
+{
+  "name": "daniel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifpi-picos/nodejs-api-DanielReisdC.git"
+  },
+  "author": "daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifpi-picos/nodejs-api-DanielReisdC/issues"
+  },
+  "homepage": "https://github.com/ifpi-picos/nodejs-api-DanielReisdC#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
